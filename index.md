@@ -40,7 +40,7 @@ layout: default
 
 # [社群封面產生器](https://cover.unlink.men/){:target="_blank"}
 
-[![社群封面產生器](https://cover.unlink.men/images/fb.png)](https://cover.unlink.men/){:target="_blank"}
+[![社群封面產生器](https://cover.unlink.men/images/cover.png)](https://cover.unlink.men/){:target="_blank"}
 
 ---
 
