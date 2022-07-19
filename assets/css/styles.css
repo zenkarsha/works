@@ -19,7 +19,7 @@ h1, h2, h3 {
   line-height:1.1;
 }
 
-h1, h1 a!important {
+h1, h1 a {
   font-size: 32px;
   font-weight: 500;
 }
