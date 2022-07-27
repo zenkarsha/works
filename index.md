@@ -64,6 +64,12 @@ layout: default
 
 ---
 
+# [太陽花頭子產生器](https://banana.unlink.men/){:target="_blank"}
+
+[![太陽花頭子產生器](/images/banana-cover.png)](https://banana.unlink.men/){:target="_blank"}
+
+---
+
 # [國家級我是誰產生器](https://national-whoami-generator.unlink.men/){:target="_blank"}
 
 [![國家級我是誰產生器](https://national-whoami-generator.unlink.men/images/fb.jpg)](https://national-whoami-generator.unlink.men/){:target="_blank"}
