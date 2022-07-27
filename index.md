@@ -64,6 +64,12 @@ layout: default
 
 ---
 
+# [天龍上人合成器](https://haolongbin.unlink.men/){:target="_blank"}
+
+[![天龍上人合成器](/images/haolongbin-cover.png)](https://haolongbin.unlink.men/){:target="_blank"}
+
+---
+
 # [太陽花頭子產生器](https://banana.unlink.men/){:target="_blank"}
 
 [![太陽花頭子產生器](/images/banana-cover.png)](https://banana.unlink.men/){:target="_blank"}
