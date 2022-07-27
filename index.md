@@ -35,7 +35,7 @@ layout: default
 
 # [藏頭詩產生器](https://poem.unlink.men/){:target="_blank"}
 
-[![藏頭詩產生器](https://poem.unlink.men/images/fb-1.png)](https://poem.unlink.men/){:target="_blank"}
+[![藏頭詩產生器](/images/poem-cover.png)](https://poem.unlink.men/){:target="_blank"}
 
 ---
 
