@@ -82,6 +82,12 @@ layout: default
 
 ---
 
+# [記憶吐司產生器](https://toast.unlink.men/){:target="_blank"}
+
+[![](/images/toast-cover.png)](https://toast.unlink.men/){:target="_blank"}
+
+---
+
 # [天龍上人合成器](https://haolongbin.unlink.men/){:target="_blank"}
 
 [![天龍上人合成器](/images/haolongbin-cover.png)](https://haolongbin.unlink.men/){:target="_blank"}
