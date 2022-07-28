@@ -29,7 +29,7 @@ layout: default
 
 # [Pharos coffee](https://www.pharoscoffee.com/){:target="_blank"}
 
-[![Pharos coffee](https://img.shoplineapp.com/media/image_clips/614ad0d1e2e18500178dc8fb/original.png?1632293073)](https://www.pharoscoffee.com/){:target="_blank"}
+[![Pharos coffee](/images/pharoscoffee-cover.png)](https://www.pharoscoffee.com/){:target="_blank"}
 
 ---
 
