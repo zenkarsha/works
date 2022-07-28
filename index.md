@@ -33,6 +33,12 @@ layout: default
 
 ---
 
+# [康熙字典體產生器](https://kangxi.unlink.men/){:target="_blank"}
+
+[![康熙字典體產生器](/images/kangxi-cover.png)](https://kangxi.unlink.men/){:target="_blank"}
+
+---
+
 # [藏頭詩產生器](https://poem.unlink.men/){:target="_blank"}
 
 [![藏頭詩產生器](/images/poem-cover.png)](https://poem.unlink.men/){:target="_blank"}
