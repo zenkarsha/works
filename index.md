@@ -70,6 +70,12 @@ layout: default
 
 ---
 
+# [祭品文產生器](https://jipinwen.unlink.men/){:target="_blank"}
+
+[![祭品文產生器](/images/jipinwen-cover.png)](https://jipinwen.unlink.men/){:target="_blank"}
+
+---
+
 # [天龍上人合成器](https://haolongbin.unlink.men/){:target="_blank"}
 
 [![天龍上人合成器](/images/haolongbin-cover.png)](https://haolongbin.unlink.men/){:target="_blank"}
