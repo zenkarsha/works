@@ -57,6 +57,12 @@ layout: default
 
 ---
 
+# [打臉圖產生器](https://slapface.unlink.men/){:target="_blank"}
+
+[![打臉圖產生器](/images/slapface-cover.png)](https://slapface.unlink.men/){:target="_blank"}
+
+---
+
 
 # [御賜金牌產生器](https://gold.unlink.men/){:target="_blank"}
 
