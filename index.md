@@ -4,17 +4,29 @@ layout: default
 
 # [兩冊空間設計 2books space design](https://2booksdesign.com.tw/){:target="_blank"}
 
+```
+前後端程式撰寫，包含管理後台
+```
+
 [![兩冊空間設計 2books space design](https://www.2booksdesign.com.tw/images/fb_og.jpg)](https://2booksdesign.com.tw/){:target="_blank"}
 
 ---
 
 # [HOUTH](https://houth.tw/){:target="_blank"}
 
+```
+前端程式、樣式撰寫，使用第三方管理後台
+```
+
 [![HOUTH](/images/houth-cover.png)](https://houth.tw/){:target="_blank"}
 
 ---
 
 # [The New Days](https://thenewdays.tw/){:target="_blank"}
+
+```
+前後端程式撰寫，包含管理後台
+```
 
 [![The New Days](https://thenewdays.tw/images/og.jpg)](https://thenewdays.tw/){:target="_blank"}
 
@@ -23,11 +35,19 @@ layout: default
 
 # [台灣美樂地](https://melody.unlink.men/){:target="_blank"}
 
+```
+前端程式撰寫、API串接
+```
+
 [![台灣美樂地](/images/melody-cover.png)](https://melody.unlink.men/){:target="_blank"}
 
 ---
 
 # [天主教單國璽社福基金會](https://www.shan.org.tw/){:target="_blank"}
+
+```
+前後端程式、樣式撰寫
+```
 
 [![天主教單國璽社福基金會](http://www.shan.org.tw/assets/imgs/image-fb.jpg)](https://www.shan.org.tw/){:target="_blank"}
 
@@ -35,17 +55,29 @@ layout: default
 
 # [Pharos coffee](https://www.pharoscoffee.com/){:target="_blank"}
 
+```
+前端樣式修改、優化
+```
+
 [![Pharos coffee](/images/pharoscoffee-cover.png)](https://www.pharoscoffee.com/){:target="_blank"}
 
 ---
 
 # [草本堂 - 桃園農業博覽會](https://herbalexpo2019.unlink.men/){:target="_blank"}
 
+```
+使用wordpress建置，並修改和優化樣式
+```
+
 [![草本堂 - 桃園農業博覽會](/images/herbalexpo2019-cover.png)](https://herbalexpo2019.unlink.men/){:target="_blank"}
 
 ---
 
 # [女兒官方網站（2015）](https://daughter.unlink.men/){:target="_blank"}
+
+```
+前端程式、樣式撰寫
+```
 
 [![女兒官方網站（2015）](/images/daughter-cover.png)](https://daughter.unlink.men/){:target="_blank"}
 
