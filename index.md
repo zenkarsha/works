@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [兩冊空間設計 2books space design](https://thenewdays.tw/){:target="_blank"}
+# [兩冊空間設計 2books space design](https://2booksdesign.com.tw/){:target="_blank"}
 
 [![兩冊空間設計 2books space design](https://www.2booksdesign.com.tw/images/fb_og.jpg)](https://2booksdesign.com.tw/){:target="_blank"}
 
