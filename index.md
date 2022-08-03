@@ -156,12 +156,6 @@ layout: default
 
 ---
 
-# [透明圖片產生器](https://transparent-image.unlink.men/){:target="_blank"}
-
-[![透明圖片產生器](/images/transparent-cover.png)](https://transparent-image.unlink.men/){:target="_blank"}
-
----
-
 # [國家級我是誰產生器](https://national-whoami-generator.unlink.men/){:target="_blank"}
 
 [![國家級我是誰產生器](https://national-whoami-generator.unlink.men/images/fb.jpg)](https://national-whoami-generator.unlink.men/){:target="_blank"}
@@ -185,13 +179,3 @@ layout: default
 [![偉忠對對碰](https://china-captain.unlink.men/img/cover.png)](https://china-captain.unlink.men/){:target="_blank"}
 
 ---
-
-# [席維尼對對碰](https://xi-winnie.unlink.men/){:target="_blank"}
-
-[![席維尼對對碰](https://xi-winnie.unlink.men/img/fb.png)](https://xi-winnie.unlink.men/){:target="_blank"}
-
----
-
-# [生命味蕾](https://zenkarsha.github.io/tongren/){:target="_blank"}
-
-[![生命味蕾](https://zenkarsha.github.io/tongren/images/index01.jpg)](https://zenkarsha.github.io/tongren/){:target="_blank"}
