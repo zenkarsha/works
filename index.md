@@ -63,16 +63,6 @@ layout: default
 
 ---
 
-# [草本堂 - 桃園農業博覽會](https://herbalexpo2019.unlink.men/){:target="_blank"}
-
-```
-使用wordpress建置，並修改和優化樣式
-```
-
-[![草本堂 - 桃園農業博覽會](/images/herbalexpo2019-cover.png)](https://herbalexpo2019.unlink.men/){:target="_blank"}
-
----
-
 # [女兒官方網站（2015）](https://daughter.unlink.men/){:target="_blank"}
 
 ```
