@@ -2,6 +2,16 @@
 layout: default
 ---
 
+# [夏普 AQUOS sense7 plus](https://aquosmobile.sharp.com.tw/WebSubSite/aquos/sense7plus.html){:target="_blank"}
+
+```
+前端程式撰寫及圖像編輯設計
+```
+
+[![夏普 AQUOS sense7 plus](/images/sharp-aquos-sense7-plus-cover.jpg)](https://aquosmobile.sharp.com.tw/WebSubSite/aquos/sense7plus.html){:target="_blank"}
+
+---
+
 # [兩冊空間設計 2books space design](https://2booksdesign.com.tw/){:target="_blank"}
 
 ```
