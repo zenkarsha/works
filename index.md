@@ -12,6 +12,18 @@ layout: default
 
 ---
 
+# [高中7000單 - Line Bot](https://github.com/zenkarsha/words7000){:target="_blank"}
+
+```
+高中7000單 Line Bot（以 Node.js 為基礎）
+GitHub開源：https://github.com/zenkarsha/words7000
+製作過程紀錄：https://zenkarsha.github.io/blog/2022/08/18/how-i-build-line-bot-of-7000-english-words
+```
+
+| [![高中7000單 - Line Bot](/images/word7000-1.jpg)](https://github.com/zenkarsha/words7000){:target="_blank"} | [![高中7000單 - Line Bot](/images/word7000-2.jpg)](https://github.com/zenkarsha/words7000){:target="_blank"} | [![高中7000單 - Line Bot](/images/word7000-3.jpg)](https://github.com/zenkarsha/words7000){:target="_blank"} | [![高中7000單 - Line Bot](/images/word7000-4.jpg)](https://github.com/zenkarsha/words7000){:target="_blank"} |
+
+---
+
 # [兩冊空間設計 2books space design](https://2booksdesign.com.tw/){:target="_blank"}
 
 ```
