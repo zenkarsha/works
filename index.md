@@ -2,6 +2,26 @@
 layout: default
 ---
 
+# [簡訊創投](https://capital.simpleinfo.cc/){:target="_blank"}
+
+```
+前端程式撰寫與API串接（React.js 19）
+
+Client：簡訊創投
+Directed by 簡訊設計 SimpleInfo Design
+Presented by 張志祺 Chih-Chyi Chang
+Release：03.2025
+Account Manager：華映綺 Amanda Hua
+Project Manager：華映綺 Amanda Hua、溫永瀚 Glen Wen
+Planner：周柏彤 Ichiten Chou
+UI Designer：曾敏雅 Mia Zeng
+Program：何怡蓁 Rita Ho｜黃白 Marc Huang
+```
+
+[![簡訊創投](/images/simpleinfo-capital-cover.png)](https://capital.simpleinfo.cc/){:target="_blank"}
+
+---
+
 # [雲書苑教育科技有限公司 官網](https://doublemind.net/){:target="_blank"}
 
 ```
@@ -11,7 +31,6 @@ layout: default
 [![雲書苑教育科技有限公司 官網](/images/doublemind-net-cover.png)](https://doublemind.net/){:target="_blank"}
 
 ---
-
 
 # [夏普 AQUOS sense7 plus](https://aquosmobile.sharp.com.tw/WebSubSite/aquos/sense7plus.html){:target="_blank"}
 
