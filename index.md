@@ -80,7 +80,7 @@ GitHub開源：https://github.com/zenkarsha/words7000
 前後端程式撰寫，包含管理後台
 ```
 
-[![The New Days](https://thenewdays.tw/images/og.jpg)](https://thenewdays.tw/){:target="_blank"}
+[![The New Days](/images/thenewdays.png)](https://thenewdays.tw/){:target="_blank"}
 
 ---
 
